@@ -1,0 +1,9 @@
+# API Key
+.env
+# 模擬資料庫：由 create_database.py 以執行當天為基準產生，可隨時重建
+factory.db
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store

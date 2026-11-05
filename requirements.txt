@@ -1,0 +1,7 @@
+# 執行 Agent 與 RAG（呼叫 Gemini API）
+google-genai==2.34.0
+pydantic==2.14.2
+python-dotenv==1.2.4
+numpy==2.5.4
+# 測試（不需要 API Key，LLM 一律以 Mock 取代）
+pytest==9.2.0
